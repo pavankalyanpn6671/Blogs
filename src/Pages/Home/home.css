@@ -1,0 +1,17 @@
+.card-section-container{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+.card-section{
+    display: flex;
+    column-gap: 5px;
+}
+.card-text{
+    height: 70px;
+}
+.trending-blog-section{
+    display: flex;
+    column-gap:5px;
+    flex-wrap: wrap;
+    row-gap: 5px;
+}

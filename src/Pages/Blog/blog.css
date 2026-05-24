@@ -1,0 +1,13 @@
+.content{
+    background-color: grey;
+    height: 300px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.content span{
+    color: white;
+    padding-left: 1rem;
+    font-size: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}

@@ -1,0 +1,6 @@
+.trending-blog-section{
+    display: flex;
+    column-gap:5px;
+    flex-wrap: wrap;
+    row-gap: 5px;
+}
