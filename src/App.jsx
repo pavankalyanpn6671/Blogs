@@ -21,7 +21,7 @@ function App() {
           </Route>
            <Route path='/category-blog/:categoryName' element={<CategoryBlogPage />} />
           <Route path='/blog/:title' element={ <DedicatedBlog />} />
-          <Route path='*' element={<>Page Not Found</>} />
+          <Route path='*' element={<>Page Not Founds</>} />
         </Routes>
       <Footer />
     </>
